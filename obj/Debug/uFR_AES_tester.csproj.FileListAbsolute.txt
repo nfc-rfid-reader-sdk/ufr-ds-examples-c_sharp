@@ -1,0 +1,10 @@
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\bin\Debug\uFR_AES_tester.exe.config
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\bin\Debug\uFR_AES_tester.exe
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\bin\Debug\uFR_AES_tester.pdb
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\obj\Debug\uFR_AES_tester.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\obj\Debug\uFR_AES_tester.Form1.resources
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\obj\Debug\uFR_AES_tester.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\obj\Debug\uFR_AES_tester.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\obj\Debug\uFR_AES_tester.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\obj\Debug\uFR_AES_tester.exe
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester\uFR_AES_tester\obj\Debug\uFR_AES_tester.pdb
